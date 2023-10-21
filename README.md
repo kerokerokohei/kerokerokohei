@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kerokerokohei}&theme={github_dark}
+[!(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kerokerokohei}&theme={github_dark})
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={kerokerokohei}&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
