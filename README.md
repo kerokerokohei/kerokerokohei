@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[!(http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={kerokerokohei}&theme={github_dark})
+[![Twitter: maki_saki](https://img.shields.io/twitter/follow/maki_saki?style=social)](https://twitter.com/maki_saki)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=kerokerokohei&left_color=gray&right_color=blue)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerokerokohei&theme=vue)
+ 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerokerokohei&show_icons=true)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerokerokohei&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={kerokerokohei}&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
