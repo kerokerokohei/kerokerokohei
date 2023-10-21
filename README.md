@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kerokerokohei&left_color=gray&right_color=blue)
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerokerokohei&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kerokerokohei&theme=github_dark)
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerokerokohei&show_icons=true)
  
